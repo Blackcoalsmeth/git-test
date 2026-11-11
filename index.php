@@ -1,1 +1,1 @@
-<?php echo "Привет, Git!";
+<?php echo "Привет, Git! Я изучаю diff";
