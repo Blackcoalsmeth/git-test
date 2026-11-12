@@ -1,1 +1,3 @@
-<?php echo "Ntrcn jn dtnrb ЬФШТ";
+<?php 
+echo "Оба текста объединились";
+?>
